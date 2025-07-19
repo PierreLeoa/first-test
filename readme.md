@@ -83,10 +83,9 @@ Initialisation d'un premier dépôt (Travail sur premier dépôt et commandes de
 
 Les commandes de base (à utiliser très fréquemment , à chaque sauvegarde):
 
- 	**cd** pour se replacer dans le bon dossier
+ 	**cd** : pour se replacer dans le bon dossier (exemple $ cd Documents/Premierprojet)
 
-\*\*git init\*\* : crée un dossier caché .git dans notre dossier courant 
-
+&nbsp;	**git init** : crée un dossier caché .git dans notre dossier courant 
 
  	**touch** index.html : création d'un fichier avecv la commande unix touch créatiuon dans le working directory
 
