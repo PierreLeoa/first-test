@@ -6,6 +6,8 @@ OPENCLASSROOMS Gérer du code avec Git et GitHub (juillet 2025)
 
 
 
+
+
       on a créé un compte dur GitHub, puis installé Git sur notre ordinateur
 
       on initialise notre premier dépôt GIT dans la fenêtre Git Bash = création d'un dossier qui va accueillir notre projet Git = création du Working Directory (directory = dossier).
